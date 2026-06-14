@@ -11,7 +11,7 @@ from        colorama        import      Fore
 
 
 rs =    Fore.RESET
-m =     Fore.MAGENTA
+m =     Fore.WHITE
 r =     Fore.RED
 g =     Fore.GREEN
 gy =    '\033[90m'
